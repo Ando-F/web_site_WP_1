@@ -500,3 +500,8 @@ body {
 	line-height: 18px;
 	color: var(--dark-color);
 }
+
+.blog-post:hover{
+	background: #fff !important;
+	box-shadow: 4px 8px 40px rgba(8, 24, 111, 0.2) !important;
+}
