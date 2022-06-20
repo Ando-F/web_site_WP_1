@@ -61,12 +61,12 @@
 }
 
 .social__link {
-  display: block;
-  width: 40px;
-  height: 40px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-cover: cover;
+	display: block;
+	width: 40px;
+	height: 40px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .social__link--fb {
